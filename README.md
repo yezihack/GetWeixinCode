@@ -1,4 +1,4 @@
-# GetWeixinCode
+# GetWeixinCode 文档
 
 解决微信OAuth2.0网页授权只能设置一个回调域名的问题
 
